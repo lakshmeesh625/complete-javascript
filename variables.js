@@ -7,3 +7,5 @@ let score = null; // null
 console.log(`The user\'s name is ${name} and they are ${age} years old. Are they Indian? ${isIndian}. Their hobbies are ${hobbies} and their score is ${score}.`);
 
 
+const PI = 3.14; // constant
+var country = "India"; // variable used in old javascript
